@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Voice Assistant</string>
+    <string name="start_a_conversation">Начните разговор</string>
+    <string name="send">Отправить</string>
+    <string name="assistant">Ассистент</string>
+    <string name="user">Пользователь</string>
+</resources>
